@@ -5,6 +5,12 @@ package com.zijin.magic.coder.entity;
  */
 public class Project {
 
+    private String id;
+
+    private String name;
+
+
+
 
 
 

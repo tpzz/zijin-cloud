@@ -9,6 +9,7 @@
         <module name="zijin-common" />
         <module name="zijin-gateway" />
         <module name="zijin-magic-coder" />
+        <module name="graphql-engine" />
         <module name="zijin-auth" />
         <module name="zijin-core" />
       </profile>
