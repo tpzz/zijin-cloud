@@ -9,10 +9,16 @@
         <module name="zijin-common" />
         <module name="zijin-gateway" />
         <module name="zijin-magic-coder" />
-        <module name="graphql-engine" />
         <module name="zijin-auth" />
+        <module name="zijin-graphql" />
         <module name="zijin-core" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="driver-core" target="8" />
+      <module name="hasura-actions" target="8" />
+      <module name="iot-core" target="8" />
+      <module name="pulsar-message" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

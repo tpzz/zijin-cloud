@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>graphql-engine</artifactId>
+    <artifactId>zijin-graphql</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>

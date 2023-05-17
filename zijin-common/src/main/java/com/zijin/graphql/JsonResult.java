@@ -1,7 +1,7 @@
-package com.zijin.common;
+package com.zijin.graphql;
 
-import com.zijin.common.enums.BaseEnum;
-import com.zijin.common.exception.BaseException;
+import com.zijin.graphql.enums.BaseEnum;
+import com.zijin.graphql.exception.BaseException;
 
 import java.io.Serializable;
 

@@ -1,6 +1,6 @@
-package com.zijin.common.exception;
+package com.zijin.graphql.exception;
 
-import com.zijin.common.enums.ResultEnum;
+import com.zijin.graphql.enums.ResultEnum;
 
 /**
  * 基础异常类

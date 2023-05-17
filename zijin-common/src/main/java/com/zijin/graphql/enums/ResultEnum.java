@@ -1,4 +1,4 @@
-package com.zijin.common.enums;
+package com.zijin.graphql.enums;
 
 /**
  * 响应结果枚举

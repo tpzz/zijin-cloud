@@ -1,4 +1,4 @@
-package com.zijin.common.enums;
+package com.zijin.graphql.enums;
 
 /**
  * 自定义枚举接口

@@ -14,7 +14,7 @@
         <module>zijin-gateway</module>
         <module>zijin-auth</module>
         <module>zijin-magic-coder</module>
-        <module>graphql-engine</module>
+        <module>zijin-graphql</module>
     </modules>
 
     <properties>

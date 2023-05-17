@@ -1,4 +1,4 @@
-package com.zijin.common.util;
+package com.zijin.graphql.util;
 
 /**
  * 通用方法类

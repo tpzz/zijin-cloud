@@ -1,4 +1,4 @@
-package com.zijin.common.constant;
+package com.zijin.graphql.constant;
 
 /**
  * 静态变量
